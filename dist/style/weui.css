@@ -547,7 +547,7 @@ input.weui-btn_plain-default{
   display:block;
   width:105px;
   word-wrap:break-word;
-  word-break:break-all;
+  word-break:normal;
 }
 .weui-input{
   width:100%;
@@ -596,7 +596,7 @@ input.weui-btn_plain-default{
   color:#FFF;
   z-index:5000;
   word-wrap:break-word;
-  word-break:break-all;
+  word-break:normal;
 }
 .weui-toptips_warn{
   background-color:#E64340;
@@ -1424,7 +1424,7 @@ a.weui-media-box:active{
   white-space:nowrap;
   word-wrap:normal;
   word-wrap:break-word;
-  word-break:break-all;
+  word-break:normal;
 }
 .weui-media-box__desc{
   color:#999999;
@@ -1668,7 +1668,7 @@ a.weui-media-box:active{
   font-size:15px;
   line-height:1.3;
   word-wrap:break-word;
-  word-break:break-all;
+  word-break:normal;
   color:#999999;
 }
 .weui-dialog__bd:first-child{
